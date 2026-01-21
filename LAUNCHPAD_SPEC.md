@@ -6,7 +6,7 @@
 **Estimated Time to MVP**: 40–50 hours
 **Estimated Time to v0.1 Release**: 60–70 hours
 
----
+---to do
 
 ## Table of Contents
 1. Executive Summary
